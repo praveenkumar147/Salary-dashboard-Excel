@@ -30,7 +30,7 @@ The dataset used for this project contains real-world data science job informati
 
 ## Dashboard Build
 
-<img src="images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="images/1_Salary_Dashboard_Chart1.png" width="850" alt="Salary Dashboard Chart1">
 
 ### 📉 Charts
 
